@@ -27,4 +27,3 @@ Details: In the map, we are showing the number of rides started from each statio
 ### Trends: 
 1. 3141 (1 Ave & E 68 St) is the most popular bike station with the highest number of starting and ending of bike rides
 2. We observe that number of bike rides from each station gradually decreases from Nov 20 to Feb 21 and then start increasing from Mar 21 to Apr 21
-![image](https://user-images.githubusercontent.com/75644803/119278423-879da700-bc25-11eb-8386-be83459cd323.png)
